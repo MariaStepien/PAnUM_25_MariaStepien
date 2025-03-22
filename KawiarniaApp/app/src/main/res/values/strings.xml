@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cafeApp</string>
+    <string name="logo_sklepu_desc">Logo sklepu Coffee Shop</string>
+    <string name="godziny_otwarcia">Godziny Otwarcia:</string>
+    <string name="enter_number">Enter number</string>
+
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Kafeterie</item>
+    </string-array>
+
+</resources>
